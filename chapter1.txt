@@ -1,0 +1,14 @@
+Web Services
+Web Services
+Web Services include zero-downtime deploys, persistent storage and PR previews. Scale up and down with ease.
+New Web Service
+Private Services
+Private Services
+Private Services are only accessible within your Render network and can speak any protocol.
+New Private Service
+Background Workers
+Background Workers
+Background Workers are suitable for long running processes like consumers for queues and streaming.
+New Worker
+Cron Jobs
+Cron Jobs
