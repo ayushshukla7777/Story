@@ -1,0 +1,57 @@
+So the first thing I'm going to do is I'm going to cd into my desktop. And here I'm going to create a
+
+new directory called Story. Then I'm going to cd into this Story directory and if I show you with ls you
+
+can see that it's completely empty.
+
+And similarly inside Finder I can show you the same thing.
+
+So let's go ahead and create some text files.
+
+So I'm going to use touch to create a file called chapter1.txt.
+
+And then I'm going to open chapter1.txt and you can either do this by simply writing open and it'll open
+
+it inside the default application which is TextEdit on a Mac,
+
+alternatively you can use a text editor within the terminal, for example Vim.
+
+Now this is only for people who are really familiar with this.
+
+So it's totally up to you what you decide to use.
+
+But if you are not familiar with using terminal based editors, then it's probably a good idea to just
+
+stick with the open command and use TextEdit.
+
+So let's go ahead and open chapter1 and let's write something inside, shall we?
+
+Okay, so that's my masterpiece done.
+
+Going to go ahead and hit save
+
+and I'm going to quit TextEdit.
+
+So that was our first chapter done.
+
+So now let's create a Git local repository and start tracking some of these file changes. So to initialize
+
+Git we simply write git init.
+
+And as you can see it's initialized and empty Git repository inside the story directory.
+
+Now if you have a look inside Finder you actually can't see this .git at all.
+
+But as we learned before
+
+if you use ls -a
+
+you can see all the hidden files and you can see that .git is right there and it's going to be used
+
+to track all your changes, to commit your changes and to perform version control.
+
+So we're currently inside the story directory and you can also call this the working directory.
+
+So as I mentioned before, using Git and learning about version control it comes with some of its own terminology
+
+and language.
