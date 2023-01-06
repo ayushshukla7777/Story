@@ -1,0 +1,19 @@
+So currently we are inside the working directory which is the story directory.
+
+And here in order to start tracking the changes of my files
+
+for example chapter1.txt,
+
+then I need to add this file to what's called a staging area.
+
+And that is basically a intermediate place where you can pick and choose which files inside your working
+
+directory that you want to commit.
+
+So to see what's currently inside your staging area, you can use the git status command. And it shows
+
+you that there are untracked files which will be shown in red and this is something that simply inside
+
+your working directory,
+
+so inside here,
